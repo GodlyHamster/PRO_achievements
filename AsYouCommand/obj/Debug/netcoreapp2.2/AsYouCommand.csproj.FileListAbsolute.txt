@@ -1,0 +1,11 @@
+C:\Users\woute\programmer shiz\AsYouCommand\obj\Debug\netcoreapp2.2\AsYouCommand.csprojAssemblyReference.cache
+C:\Users\woute\programmer shiz\AsYouCommand\obj\Debug\netcoreapp2.2\AsYouCommand.csproj.CoreCompileInputs.cache
+C:\Users\woute\programmer shiz\AsYouCommand\obj\Debug\netcoreapp2.2\AsYouCommand.AssemblyInfoInputs.cache
+C:\Users\woute\programmer shiz\AsYouCommand\obj\Debug\netcoreapp2.2\AsYouCommand.AssemblyInfo.cs
+C:\Users\woute\programmer shiz\AsYouCommand\bin\Debug\netcoreapp2.2\AsYouCommand.deps.json
+C:\Users\woute\programmer shiz\AsYouCommand\bin\Debug\netcoreapp2.2\AsYouCommand.runtimeconfig.json
+C:\Users\woute\programmer shiz\AsYouCommand\bin\Debug\netcoreapp2.2\AsYouCommand.runtimeconfig.dev.json
+C:\Users\woute\programmer shiz\AsYouCommand\bin\Debug\netcoreapp2.2\AsYouCommand.dll
+C:\Users\woute\programmer shiz\AsYouCommand\bin\Debug\netcoreapp2.2\AsYouCommand.pdb
+C:\Users\woute\programmer shiz\AsYouCommand\obj\Debug\netcoreapp2.2\AsYouCommand.dll
+C:\Users\woute\programmer shiz\AsYouCommand\obj\Debug\netcoreapp2.2\AsYouCommand.pdb

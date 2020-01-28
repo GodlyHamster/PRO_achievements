@@ -1,0 +1,22 @@
+C:\data\gitHub\PRO2\classAssignment\obj\Debug\netcoreapp2.2\classAssignment.csprojAssemblyReference.cache
+C:\data\gitHub\PRO2\classAssignment\obj\Debug\netcoreapp2.2\classAssignment.csproj.CoreCompileInputs.cache
+C:\data\gitHub\PRO2\classAssignment\obj\Debug\netcoreapp2.2\classAssignment.AssemblyInfoInputs.cache
+C:\data\gitHub\PRO2\classAssignment\obj\Debug\netcoreapp2.2\classAssignment.AssemblyInfo.cs
+C:\data\gitHub\PRO2\classAssignment\bin\Debug\netcoreapp2.2\classAssignment.deps.json
+C:\data\gitHub\PRO2\classAssignment\bin\Debug\netcoreapp2.2\classAssignment.runtimeconfig.json
+C:\data\gitHub\PRO2\classAssignment\bin\Debug\netcoreapp2.2\classAssignment.runtimeconfig.dev.json
+C:\data\gitHub\PRO2\classAssignment\bin\Debug\netcoreapp2.2\classAssignment.dll
+C:\data\gitHub\PRO2\classAssignment\bin\Debug\netcoreapp2.2\classAssignment.pdb
+C:\data\gitHub\PRO2\classAssignment\obj\Debug\netcoreapp2.2\classAssignment.dll
+C:\data\gitHub\PRO2\classAssignment\obj\Debug\netcoreapp2.2\classAssignment.pdb
+C:\Users\woute\programmer shiz\classAssignment\obj\Debug\netcoreapp2.2\classAssignment.csprojAssemblyReference.cache
+C:\Users\woute\programmer shiz\classAssignment\obj\Debug\netcoreapp2.2\classAssignment.csproj.CoreCompileInputs.cache
+C:\Users\woute\programmer shiz\classAssignment\obj\Debug\netcoreapp2.2\classAssignment.AssemblyInfoInputs.cache
+C:\Users\woute\programmer shiz\classAssignment\obj\Debug\netcoreapp2.2\classAssignment.AssemblyInfo.cs
+C:\Users\woute\programmer shiz\classAssignment\obj\Debug\netcoreapp2.2\classAssignment.dll
+C:\Users\woute\programmer shiz\classAssignment\obj\Debug\netcoreapp2.2\classAssignment.pdb
+C:\Users\woute\programmer shiz\classAssignment\bin\Debug\netcoreapp2.2\classAssignment.deps.json
+C:\Users\woute\programmer shiz\classAssignment\bin\Debug\netcoreapp2.2\classAssignment.runtimeconfig.json
+C:\Users\woute\programmer shiz\classAssignment\bin\Debug\netcoreapp2.2\classAssignment.runtimeconfig.dev.json
+C:\Users\woute\programmer shiz\classAssignment\bin\Debug\netcoreapp2.2\classAssignment.dll
+C:\Users\woute\programmer shiz\classAssignment\bin\Debug\netcoreapp2.2\classAssignment.pdb

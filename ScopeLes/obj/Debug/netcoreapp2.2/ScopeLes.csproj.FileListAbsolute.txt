@@ -1,0 +1,11 @@
+C:\Users\woute\programmer shiz\ScopeLes\obj\Debug\netcoreapp2.2\ScopeLes.csprojAssemblyReference.cache
+C:\Users\woute\programmer shiz\ScopeLes\obj\Debug\netcoreapp2.2\ScopeLes.csproj.CoreCompileInputs.cache
+C:\Users\woute\programmer shiz\ScopeLes\obj\Debug\netcoreapp2.2\ScopeLes.AssemblyInfoInputs.cache
+C:\Users\woute\programmer shiz\ScopeLes\obj\Debug\netcoreapp2.2\ScopeLes.AssemblyInfo.cs
+C:\Users\woute\programmer shiz\ScopeLes\bin\Debug\netcoreapp2.2\ScopeLes.deps.json
+C:\Users\woute\programmer shiz\ScopeLes\bin\Debug\netcoreapp2.2\ScopeLes.runtimeconfig.json
+C:\Users\woute\programmer shiz\ScopeLes\bin\Debug\netcoreapp2.2\ScopeLes.runtimeconfig.dev.json
+C:\Users\woute\programmer shiz\ScopeLes\bin\Debug\netcoreapp2.2\ScopeLes.dll
+C:\Users\woute\programmer shiz\ScopeLes\bin\Debug\netcoreapp2.2\ScopeLes.pdb
+C:\Users\woute\programmer shiz\ScopeLes\obj\Debug\netcoreapp2.2\ScopeLes.dll
+C:\Users\woute\programmer shiz\ScopeLes\obj\Debug\netcoreapp2.2\ScopeLes.pdb

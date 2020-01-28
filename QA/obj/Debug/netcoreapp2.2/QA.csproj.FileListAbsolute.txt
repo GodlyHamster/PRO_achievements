@@ -1,0 +1,11 @@
+C:\Users\woute\QA\bin\Debug\netcoreapp2.2\QA.deps.json
+C:\Users\woute\QA\bin\Debug\netcoreapp2.2\QA.runtimeconfig.json
+C:\Users\woute\QA\bin\Debug\netcoreapp2.2\QA.runtimeconfig.dev.json
+C:\Users\woute\QA\bin\Debug\netcoreapp2.2\QA.dll
+C:\Users\woute\QA\bin\Debug\netcoreapp2.2\QA.pdb
+C:\Users\woute\QA\obj\Debug\netcoreapp2.2\QA.csprojAssemblyReference.cache
+C:\Users\woute\QA\obj\Debug\netcoreapp2.2\QA.csproj.CoreCompileInputs.cache
+C:\Users\woute\QA\obj\Debug\netcoreapp2.2\QA.AssemblyInfoInputs.cache
+C:\Users\woute\QA\obj\Debug\netcoreapp2.2\QA.AssemblyInfo.cs
+C:\Users\woute\QA\obj\Debug\netcoreapp2.2\QA.dll
+C:\Users\woute\QA\obj\Debug\netcoreapp2.2\QA.pdb

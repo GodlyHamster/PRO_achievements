@@ -1,0 +1,11 @@
+C:\Users\woute\programmer shiz\higherLower\obj\Debug\netcoreapp2.2\higherLower.csprojAssemblyReference.cache
+C:\Users\woute\programmer shiz\higherLower\obj\Debug\netcoreapp2.2\higherLower.csproj.CoreCompileInputs.cache
+C:\Users\woute\programmer shiz\higherLower\obj\Debug\netcoreapp2.2\higherLower.AssemblyInfoInputs.cache
+C:\Users\woute\programmer shiz\higherLower\obj\Debug\netcoreapp2.2\higherLower.AssemblyInfo.cs
+C:\Users\woute\programmer shiz\higherLower\bin\Debug\netcoreapp2.2\higherLower.deps.json
+C:\Users\woute\programmer shiz\higherLower\bin\Debug\netcoreapp2.2\higherLower.runtimeconfig.json
+C:\Users\woute\programmer shiz\higherLower\bin\Debug\netcoreapp2.2\higherLower.runtimeconfig.dev.json
+C:\Users\woute\programmer shiz\higherLower\bin\Debug\netcoreapp2.2\higherLower.dll
+C:\Users\woute\programmer shiz\higherLower\bin\Debug\netcoreapp2.2\higherLower.pdb
+C:\Users\woute\programmer shiz\higherLower\obj\Debug\netcoreapp2.2\higherLower.dll
+C:\Users\woute\programmer shiz\higherLower\obj\Debug\netcoreapp2.2\higherLower.pdb
